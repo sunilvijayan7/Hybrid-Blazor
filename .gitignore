@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MyHybridApp.Windows/bin
+/MyHybridApp.macOS/bin
+/MyHybridApp.iOS/bin/iPhone/Debug
+/MyHybridApp.iOS/obj
+/MyHybridApp/bin
+/MyHybridApp.Android/bin/Release
+/MyHybridApp.Android/obj
+*.suo
+/.vs
+/MyHybridApp/obj
+/MyHybridApp.Android/bin/Debug
+/MyHybridApp.macOS/obj
+/MyHybridApp.Windows/obj
